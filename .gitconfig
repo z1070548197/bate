@@ -1,0 +1,14 @@
+[user]
+	name=z1070548197
+	email=1070548197@qq.com
+[alias]
+	co=checkout
+	ci=conmmit
+	sstatus
+	pl=pull
+	ps=push
+	dt=gifftool
+	ca=commit -am
+	b=branch
+[push]
+	default=simple
